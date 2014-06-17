@@ -43,3 +43,14 @@ do
 end -- c, d scope ends
 print(x1, x2)
 
+-- for loop
+for i = 10, 1, -1 do -- same as int i = 10, i >= 1, i--
+	print(i)
+
+	if i % 2 == 0
+	then
+		print("even")
+	else
+		print("odd")
+	end		
+end
