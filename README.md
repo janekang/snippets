@@ -4,4 +4,11 @@ snippets
 Short codes for practices and/or future references
 
 Programming Languages:
-Python, Bash Shell
+C++
+Python
+Bash Shell
+Lua
+
+Programming Software:
+Google Test
+Microsoft Visual Studio
