@@ -33,7 +33,8 @@
  * 2) #include "stdafx.h" on all cpp files (else error by visual studio)
  * 3) #include <iostream> for console on where main() is
  * 4) #include "gtest/gtest.h" on where main() is
- * 5) start debugging
+ * 5) put std::getchar() at the end of main() to avoid console closing down too fast
+ * 6) start debugging
  *
  * http://stackoverflow.com/questions/531941/how-to-setup-google-c-testing-framework-gtest-on-visual-studio-2005
  */
