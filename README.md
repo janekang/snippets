@@ -11,4 +11,4 @@ Lua
 
 Programming Software:
 Google Test
-Microsoft Visual Studio
+Microsoft Visual Studio 2008

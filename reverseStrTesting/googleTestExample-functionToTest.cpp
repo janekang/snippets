@@ -4,7 +4,7 @@
  * Jane Kang, Agent Developer Intern 
  */
 
-#include "googleTestExample-functionToTest.h"
+#include "GoogleTestExample-functionToTest.h"
 
 string reverseStr(string input) {
 	string result = "";

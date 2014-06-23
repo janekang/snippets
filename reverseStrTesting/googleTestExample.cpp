@@ -1,4 +1,4 @@
-#include "googleTestExample-functionToTest.h"
+#include "GoogleTestExample-functionToTest.h"
 #include "gtest/gtest.h"
 
 /*
