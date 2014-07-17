@@ -4,10 +4,11 @@ snippets
 Short codes for practices and/or future references
 
 Programming Languages:
-C++
-Python
 Bash Shell
+C++
+Java
 Lua
+Python
 
 Programming Software:
 Google Test
