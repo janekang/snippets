@@ -3,6 +3,7 @@ package com.example.helloworldglass;
 import com.google.android.glass.app.Card;
 //import com.google.android.glass.widget.CardBuilder;
 
+import android.R;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.*;

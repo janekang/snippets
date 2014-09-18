@@ -11,5 +11,6 @@ Lua
 Python
 
 Programming Software:
+Eclipse ADT
 Google Test
 Microsoft Visual Studio 2008
