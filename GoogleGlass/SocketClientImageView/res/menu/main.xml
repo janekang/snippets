@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.socketclient.MainActivity" >
+
+    <item
+        android:id="@+id/start_casting_menu_item"
+        android:title="@string/start_casting"/>
+    <item
+        android:id="@+id/stop_casting_menu_item"
+        android:title="@string/stop_casting"/>
+    
+    <item
+        android:id="@+id/see_quotes_menu_item"
+        android:title="@string/see_quotes"/>
+    <item
+        android:id="@+id/return_to_main_menu_item"
+        android:title="@string/return_to_main"/>
+
+</menu>

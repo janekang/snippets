@@ -1,0 +1,48 @@
+package com.example.helloworldglass;
+
+import com.google.android.glass.widget.CardBuilder;
+
+import android.support.v7.app.ActionBarActivity;
+import android.os.Bundle;
+import android.view.*;
+
+public class MainActivity extends ActionBarActivity {
+	
+	// Main card
+	//public CardBuilder mainCard;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		
+		/*
+		 * Create main card
+		 */
+		CardBuilder mainCard = new CardBuilder(this, CardBuilder.Layout.TEXT);
+		mainCard.setText("Hello World! Yours, Glass");
+		mainCard.setFootnote("First/Main card");
+		mainCard.setTimestamp("Jane Kang @Augmedix");
+		
+		View mainCardView = mainCard.getView();
+		setContentView(mainCardView);
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		// Handle action bar item clicks here. The action bar will
+		// automatically handle clicks on the Home/Up button, so long
+		// as you specify a parent activity in AndroidManifest.xml.
+		int id = item.getItemId();
+		if (id == R.id.action_settings) {
+			return true;
+		}
+		return super.onOptionsItemSelected(item);
+	}
+}
