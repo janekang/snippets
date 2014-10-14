@@ -1,5 +1,6 @@
 """
 Simple tutorial for testing Python's file read and write functions
+Python 2.7.3
 
 Jane Kang, Agent Developer Intern
 """
@@ -28,7 +29,7 @@ print fileNew.readlines()
 fileNew.writelines(["fourth\n", "fifth\n"])
 fileNew.close()
 
-# looping
+# Looping
 fileNew = open('newFile.txt', 'r')
 print "Final:"
 numLines = sum(1 for line in fileNew)
