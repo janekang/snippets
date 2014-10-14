@@ -40,7 +40,7 @@ for i in xrange(0, numLines):
 
 # with statement, looping
 with open('newFile.txt') as fileNew:
-	# read in the first line
+	# Read in the first line
 	print "Should match with the above result:"
 	currentLine = fileNew.readline()
 
