@@ -4,6 +4,7 @@ import getopt
 """
 Trying out Python to read in files using terminal.
 User inputs file name through terminal.
+Python 2.7.3
 
 Jane Kang, Agent Developer Intern
 """
@@ -71,7 +72,7 @@ def main(argv = None):
 
 	###########################################################
 
-	# Helper try-catch for handling error messages
+	# Helper try-catch to handle error messages
 	try:
 		try:
 			opts, args = getopt.getopt(argv[1:], "h", ["help"])
@@ -84,5 +85,5 @@ def main(argv = None):
 
 # Calls to sys.exit(n) inside main => return n
 if __name__ == "__main__":
-	# Directly ran on the terminal
+	# Directly run on the terminal
 	sys.exit(main())
