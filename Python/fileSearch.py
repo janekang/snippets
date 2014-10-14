@@ -7,6 +7,8 @@ reaching down to all subdirectories.
 Default set to return the first file containing the given string,
 -a for iterating through all files.
 
+Python 2.7.3
+
 Jane Kang, Agent Developer Intern
 """
 
@@ -76,7 +78,7 @@ def findFile(searchTermIncluded, aFlag):
 		if aFlag != "-a" and len(searchTermIncluded) == 1:
 			break
 
-	# Printing file names and paths
+	# Print file names and paths
 	if len(searchTermIncluded) > 0:
 		print "Following files contains the term '" + searchTerm + "':"
 
