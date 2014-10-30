@@ -14,10 +14,12 @@ _Programming Languages:_
 
 _Programming Software:_
 
+PC:
 - Eclipse ADT with Android plug-in
 - Microsoft Visual Studio 2008
 - IDLE, a Python IDE
 
+MAC:
 - Aquamacs, terminal
 - Vim, terminal
 
