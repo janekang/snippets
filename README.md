@@ -17,4 +17,5 @@ _Programming Software:_
 - Eclipse ADT
 - Google Test
 - Microsoft Visual Studio 2008
-- Google Glass SDK
+- Glass Development Kit
+- Android SDK
