@@ -14,8 +14,15 @@ _Programming Languages:_
 
 _Programming Software:_
 
-- Eclipse ADT
-- Google Test
+- Eclipse ADT with Android plug-in
 - Microsoft Visual Studio 2008
+- IDLE, a Python IDE
+
+- Aquamacs, terminal
+- Vim, terminal
+
+_SDK:_
+
+- Google Test
 - Glass Development Kit
 - Android SDK
