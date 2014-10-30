@@ -1,4 +1,5 @@
-First Google Glass project
-@author Jane Kang, Software Engineering Intern, Augmedix
+# First Google Glass project
 
-Introduction to Glass Developer Kit, Android SDK, Eclipse with Android plug-in
+_@author Jane Kang, Software Engineering Intern, Augmedix_
+
+- Introduction to Glass Developer Kit, Android SDK, Eclipse with Android plug-in
