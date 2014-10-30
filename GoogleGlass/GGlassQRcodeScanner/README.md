@@ -1,4 +1,4 @@
-QR code scanner for Google Glass
+# QR code scanner for Google Glass
 
 _@author Jane Kang, Software Engineering Intern, Augmedix_
 
