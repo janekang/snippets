@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No translation of sample extensions -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Name of app, shown when installing/uninstalling extension -->
+    <string name="app_name">Hello World SonyEyeglass</string>
+    <!-- Title of preference activity -->
+    <string name="preference_activity_title">Hello World SonyEyeglass Settings</string>
+    <!-- Name of extension, shown in preferences -->
+    <string name="extension_name">Hello World SonyEyeglass</string>
+    <!-- Configuration title shown in preferences -->
+    <string name="configuration_text">Hello World SonyEyeglass Settings</string>
+    <!-- Menu option shown in preferences -->
+    <string name="preference_option_read_me">READ ME</string>
+    <!-- Read me text shown in dialog -->
+    <string name="preference_option_read_me_txt">The Hello World SonyEyeglass example displays two Hello World cards, one using layouts and one using bitmap.</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_show_bitmap">Swipe left to change to bitmap</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_tap_count">Tap count: </string>
+
+    <!-- Text used on control layout -->
+    <string name="text_show_layout">Swipe right to change to layout</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_title_layout">Hello World: L</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_title_bitmap">Hello World: B</string>
+</resources>

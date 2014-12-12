@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No translation of sample extensions -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Name of app, shown when installing/uninstalling extension -->
+    <string name="app_name">Picture SonyEyeglass</string>
+    <!-- Title of preference activity -->
+    <string name="preference_activity_title">Hello World SonyEyeglass Settings</string>
+    <!-- Name of extension, shown in preferences -->
+    <string name="extension_name">Picture SonyEyeglass</string>
+    <!-- Configuration title shown in preferences -->
+    <string name="configuration_text">Picture SonyEyeglass Settings</string>
+    <!-- Menu option shown in preferences -->
+    <string name="preference_option_read_me">READ ME</string>
+    <!-- Read me text shown in dialog -->
+    <string name="preference_option_read_me_txt">Picture SonyEyeglass example allows swiping through pictures.</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_picture_index">Picture No. </string>
+    
+</resources>

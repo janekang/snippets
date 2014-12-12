@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No translation of sample extensions -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Name of app, shown when installing/uninstalling extension -->
+    <string name="app_name">Quotes SonyEyeglass</string>
+    <!-- Title of preference activity -->
+    <string name="preference_activity_title">Quotes SonyEyeglass Settings</string>
+    <!-- Name of extension, shown in preferences -->
+    <string name="extension_name">Quotes SonyEyeglass</string>
+    <!-- Configuration title shown in preferences -->
+    <string name="configuration_text">Quotes SonyEyeglass Settings</string>
+    <!-- Menu option shown in preferences -->
+    <string name="preference_key_read_me">preference_key_read_me</string>
+    <string name="preference_option_read_me">READ ME</string>
+    <!-- Read me text shown in dialog -->
+    <string name="preference_option_read_me_txt">Quotes SonyEyeglass example displays a list of names.\n
+        										User can scroll between names and tap on the touch sensor to view corresponding quotes.\n
+                                                For long text blocks, initiate the drag scroll by pressing and holding on the touch sensor. </string>
+
+</resources>
