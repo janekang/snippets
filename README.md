@@ -15,7 +15,7 @@ Short codes for practices and/or future references
 **Programming Software:**
 
 _PC:_
-- Eclipse ADT with Android plug-in
+- Eclipse ADT with Android plug-in, GDK
 - Microsoft Visual Studio 2008
 - IDLE, a Python IDE
 
@@ -25,6 +25,7 @@ _MAC:_
 
 **SDK:**
 
+- Android SDK
 - Google Test
 - Glass Development Kit
-- Android SDK
+- Sony SmartEyeglass SDK
