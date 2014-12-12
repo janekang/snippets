@@ -3,7 +3,7 @@ snippets
 
 Short codes for practices and/or future references
 
-_Programming Languages:_
+**Programming Languages:**
 
 - Bash Shell
 - C
@@ -12,10 +12,19 @@ _Programming Languages:_
 - Lua
 - Python
 
-_Programming Software:_
+**Programming Software:**
 
-- Eclipse ADT
-- Google Test
+_PC:_
+- Eclipse ADT with Android plug-in
 - Microsoft Visual Studio 2008
+- IDLE, a Python IDE
+
+_MAC:_
+- Aquamacs, terminal
+- Vim, terminal
+
+**SDK:**
+
+- Google Test
 - Glass Development Kit
 - Android SDK
